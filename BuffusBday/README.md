@@ -23,3 +23,5 @@
 <p>The capybara will be jumping to collect the candles, avoid the obstacles or even move between platforms</p>
 
 <p>Controls: WASD and SPACE</p>
+
+<h2>Game Assets</h2>
